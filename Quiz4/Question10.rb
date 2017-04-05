@@ -1,0 +1,1 @@
+p %w[where's wallce at].join('***')

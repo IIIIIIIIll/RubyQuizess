@@ -1,0 +1,1 @@
+%w[fat bat rat].each{|name| p name+'land'}

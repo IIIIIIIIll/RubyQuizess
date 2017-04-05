@@ -1,0 +1,1 @@
+p %w[roof top].include?('bar')

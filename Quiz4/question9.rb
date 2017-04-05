@@ -1,0 +1,1 @@
+p %w[Too weired to live Too weired to die].join(' ')
