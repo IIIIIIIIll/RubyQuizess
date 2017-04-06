@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="question15" type="RubyRunConfigurationType" factoryName="Ruby">
+  <configuration default="false" name="question8 (1)" type="RubyRunConfigurationType" factoryName="Ruby">
     <module name="CodeQuizess" />
     <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-    <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Beginner1" />
+    <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Quiz4" />
     <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
     <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
     <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -14,7 +14,7 @@
         <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
       </COVERAGE_PATTERN>
     </EXTENSION>
-    <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Beginner1/question25.rb" />
+    <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Quiz4/question8.rb" />
     <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     <method />
   </configuration>
