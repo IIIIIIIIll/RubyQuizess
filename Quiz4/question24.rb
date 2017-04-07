@@ -1,0 +1,1 @@
+p %w(waters too polluted with germs).join(' ')
