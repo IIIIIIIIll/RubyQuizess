@@ -1,0 +1,1 @@
+#object is an instance of a class, for example, "Hello" is a object of String
