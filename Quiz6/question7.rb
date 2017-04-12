@@ -1,0 +1,1 @@
+p 'stimpy'.include?('s')
