@@ -1,0 +1,1 @@
+p 7.times.map {|i|10**i}
