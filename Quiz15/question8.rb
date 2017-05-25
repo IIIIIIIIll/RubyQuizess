@@ -1,0 +1,1 @@
+p BasicObject.singleton_class.superclass
