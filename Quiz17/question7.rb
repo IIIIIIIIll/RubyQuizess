@@ -1,9 +1,12 @@
 first = 'speed'
 second = 'racer'
-class Motivation
-  def speak
-    eval(%W("Go #{first} #{second}!!!"), TOPLEVEL_BINDING)
-  end
-end
 
-p Motivation.new.speak
+p binding.local_variables
+p TOPLEVEL_BINDING.local_variables
+#class Motivation
+  def speak
+    eval('"Go #{first} #{second}!!!"', TOPLEVEL_BINDING)
+  end
+#end
+
+p speak
